@@ -3,5 +3,5 @@
 Homebrew formula for [QLScpt](https://github.com/josh-/QLScpt)
 
 ```sh
-$ brew install josh-/qlscpt/qlscpt
+$ brew cask install josh-/qlscpt/qlscpt
 ```
